@@ -1,2 +1,1 @@
 # parrot-az
-cybersecurtiy aze
